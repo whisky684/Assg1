@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738640079397",
+    "project_id": "fireyer-57f5d",
+    "storage_bucket": "fireyer-57f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738640079397:android:80d1fbaa6af1231cacedcc",
+        "android_client_info": {
+          "package_name": "com.example.fireyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738640079397-ncecipq3oqm3p7mhv280entu4gp911g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_cHUosyrx5MXMbFMm-Il9SUeU4usJQlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738640079397-ncecipq3oqm3p7mhv280entu4gp911g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
